@@ -1,0 +1,11 @@
+[Protocol]
+exec=netbit-qt '%u'
+protocol=netbit
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

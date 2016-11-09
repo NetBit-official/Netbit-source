@@ -1,0 +1,2 @@
+debian/bin/netbitd usr/bin
+src/netbitd usr/lib/netbit
